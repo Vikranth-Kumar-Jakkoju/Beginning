@@ -1,0 +1,7 @@
+public classMain {
+  public static void main(String[] args) {
+    char[] name = "technology".toCharArray();
+    System.out.print(name[0]);
+    System.out.println(new String(name));
+  }
+}
